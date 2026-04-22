@@ -2469,7 +2469,7 @@
       "releaseDate": "2007",
       "manufacturer": "EasyRPG Team",
       "retroAchievementsId": "NA",
-      "romExtensions": [".easyrpg", ".zip", ".ZIP", ".LDB"],
+      "romExtensions": [".easyrpg", ".zip", ".ZIP", ".LDB", ".ldb"],
       "emulators": [
         {
           "id": "retroarch",
